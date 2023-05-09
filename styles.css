@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+
+
+.search {
+    border-radius: 15px;
+    border: 2px solid teal;
+    color: teal;
+    padding: 3px 30px;
+    margin-bottom: 15px;
+}
+
+.plus {
+    border-radius: 50%;
+    border: 1px solid white;
+    background-color: rgb(33, 212, 174);
+    margin-bottom: 15px;
+    color: white;
+}
+
+.createaccount {
+    background-color: rgb(15, 118, 179);
+    color: white;
+    border: 1px solid black;
+    box-shadow: 2px 2px black;
+    padding: 2px 15px;
+}
